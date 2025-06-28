@@ -1,1 +1,1 @@
-# EJS-project
+# EJS_project
